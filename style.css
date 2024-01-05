@@ -1,0 +1,33 @@
+* {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
+
+.title {
+    border: 1px rgb(3, 34, 28) solid;
+    text-align: center;
+    background-color: rgb(180, 149, 110);
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    margin: 2px auto;
+}
+
+li,
+a {
+    margin: 10px auto;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a {
+    border: 1px rgb(180, 149, 110) solid;
+    border-radius: 20px;
+}
